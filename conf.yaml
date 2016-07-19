@@ -1,0 +1,30 @@
+#配置文件，使用4个空格代替Tab
+---
+url: /
+title: Chiefyang的小木屋 
+subtitle: 小木屋里住着帅气的杨沐晨
+theme: quest
+enableCache: true
+highlight: true
+mathjax: true
+duoshuo: 51chief
+baiduAnalytics: fd2f0ccb64d4b2095edded3e20a8d247
+keywords: 杨沐晨,博客,Markdown博客,chiefyang,51chief,php,nginx,golang
+description: >
+   杨沐晨de幸福生活 
+version: 2.2
+author:
+    name: chiefyang
+    email: 490868351@qq.com
+    github: tiancityycf
+    weibo: 345916918
+    avatar:
+blog:
+    recentSize: 10
+    pageSize: 20
+    pageBarSize: 5
+    allBlogsForPage: false
+text:
+    title: 介绍
+    intro: >
+          欢迎光临小木屋
