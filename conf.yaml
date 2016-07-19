@@ -1,17 +1,17 @@
 #配置文件，使用4个空格代替Tab
 ---
 url: /
-title: Chiefyang的小木屋 
-subtitle: 小木屋里住着帅气的杨沐晨
+title: chiefyang的小木屋 
+subtitle: 沐沐沐
 theme: quest
 enableCache: true
 highlight: true
 mathjax: true
 duoshuo: 51chief
 baiduAnalytics: fd2f0ccb64d4b2095edded3e20a8d247
-keywords: 杨沐晨,博客,Markdown博客,chiefyang,51chief,php,nginx,golang
+keywords: 博客,Markdown博客,chiefyang,51chief,php,nginx,golang
 description: >
-   杨沐晨de幸福生活 
+   幸福生活 
 version: 2.2
 author:
     name: chiefyang

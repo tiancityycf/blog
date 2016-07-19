@@ -3,7 +3,7 @@ author: chiefyang
 head: http://pingodata.qiniudn.com/jockchou-avatar.jpg
 date: 2015-07-31
 title: LINUX PHP C++扩展开发
-tags: php
+tags: c++ php扩展 php
 category: php
 status: publish
 summary: LINUX PHP C++扩展开发

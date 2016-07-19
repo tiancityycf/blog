@@ -1,12 +1,12 @@
 <!--
 author: chiefyang
-head: http://pingodata.qiniudn.com/jockchou-avatar.jpg
+head: img/avatar.jpg
 date: 2015-07-31
-title: LINUX PHP C++扩展开发
-tags: php
+title: PHP的pcntl多进程
+tags: pcntl php
 category: php
 status: publish
-summary: LINUX PHP C++扩展开发
+summary: PHP的pcntl多进程
 -->
 
 PHP的pcntl多进程
