@@ -1,7 +1,7 @@
 #配置文件，使用4个空格代替Tab
 ---
 url: /
-title: chiefyang的小木屋 
+title: 51chief.com
 subtitle: 沐沐沐
 theme: quest
 enableCache: true
@@ -27,4 +27,4 @@ blog:
 text:
     title: 介绍
     intro: >
-          欢迎光临小木屋
+          欢迎光临
